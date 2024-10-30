@@ -21,8 +21,8 @@ This project is designed to allow users to ask questions based on the content of
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/ChatGroq_Demo.git
-   cd ChatGroq_Demo
+   git clone https://github.com/SaidDazz/Document-Q-A-Chatbot.git
+   cd Document-Q-A-Chatbot
    ```
 
 2. **Set Up Virtual Environment**
