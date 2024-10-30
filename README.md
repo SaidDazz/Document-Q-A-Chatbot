@@ -14,12 +14,4 @@ This project is a chatbot demo application built with Streamlit, using LangChain
 To set up and run this project, you’ll need:
 - Python 3.7 or above
 - `requirements.txt` with the following packages:
-  ```plaintext
-  streamlit
-  langchain
-  langchain_groq
-  langchain_openai
-  langchain_core
-  langchain_community
-  faiss-cpu
-  python-dotenv
+
